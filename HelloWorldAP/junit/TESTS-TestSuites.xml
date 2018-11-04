@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="DESKTOP-HEPIOAM" id="0" name="MainTest" package="HelloWorldPackage" skipped="0" tests="1" time="0.05" timestamp="2018-11-04T22:38:20">
+      <properties>
+          <property name="java.vendor" value="Oracle Corporation" />
+
+          <property name="env.USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-HEPIOAM" />
+
+          <property name="ant.file.HelloWorldAP" value="C:\Users\Arvis\eclipse-workspace\HelloWorldAP\build.xml" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+
+          <property name="ant.file.type.HelloWorldAP" value="file" />
+
+          <property name="env.PROMPT" value="$P$G" />
+
+          <property name="env.DriverData" value="C:\Windows\System32\Drivers\DriverData" />
+
+          <property name="os.name" value="Windows 10" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_102\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_102\jre\classes" />
+
+          <property name="env.COMPUTERNAME" value="DESKTOP-HEPIOAM" />
+
+          <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+
+          <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+
+          <property name="env.GTK_BASEPATH" value="C:\Program Files (x86)\GtkSharp\2.12\" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+
+          <property name="ant.home" value="C:\ANT\apache-ant-1.10.5" />
+
+          <property name="java.runtime.version" value="1.8.0_102-b14" />
+
+          <property name="env.HOMEPATH" value="\Users\Arvis" />
+
+          <property name="user.name" value="Arvis" />
+
+          <property name="user.language" value="en" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_102\jre\bin" />
+
+          <property name="ant.project.default-target" value="build" />
+
+          <property name="ant.project.name" value="HelloWorldAP" />
+
+          <property name="java.version" value="1.8.0_102" />
+
+          <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 60 Stepping 3, GenuineIntel" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="env.TEMP" value="C:\Users\Arvis\AppData\Local\Temp" />
+
+          <property name="sun.arch.data.model" value="64" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_102\jre\lib\endorsed" />
+
+          <property name="env._JAVACMD" value="C:\Program Files\Java\jdk1.8.0_102\bin\java.exe" />
+
+          <property name="sun.cpu.isalist" value="amd64" />
+
+          <property name="env.HOMEDRIVE" value="C:" />
+
+          <property name="sun.jnu.encoding" value="Cp1252" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="ECLIPSE_HOME" value="D:/Downloads/ecipse/eclipse-java-oxygen-R-win32-x86_64/eclipse/" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="52.0" />
+
+          <property name="user.country" value="US" />
+
+          <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_102\jre" />
+
+          <property name="env.PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules" />
+
+          <property name="env.APPDATA" value="C:\Users\Arvis\AppData\Roaming" />
+
+          <property name="env.PUBLIC" value="C:\Users\Public" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="env.ComSpec" value="C:\WINDOWS\system32\cmd.exe" />
+
+          <property name="env.OS" value="Windows_NT" />
+
+          <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+
+          <property name="ant.file" value="C:\Users\Arvis\eclipse-workspace\HelloWorldAP\build.xml" />
+
+          <property name="os.version" value="10.0" />
+
+          <property name="env.ProgramW6432" value="C:\Program Files" />
+
+          <property name="env._USE_CLASSPATH" value="no" />
+
+          <property name="env.=::" value="::\" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="25.102-b14" />
+
+          <property name="user.variant" value="" />
+
+          <property name="env.USERPROFILE" value="C:\Users\Arvis" />
+
+          <property name="ant.library.dir" value="C:\ANT\apache-ant-1.10.5\lib" />
+
+          <property name="junit.output.dir" value="junit" />
+
+          <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_102" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="env.TMP" value="C:\Users\Arvis\AppData\Local\Temp" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="sun.stdout.encoding" value="cp437" />
+
+          <property name="user.script" value="" />
+
+          <property name="user.home" value="C:\Users\Arvis" />
+
+          <property name="target" value="1.8" />
+
+          <property name="env.ProgramData" value="C:\ProgramData" />
+
+          <property name="env.SESSIONNAME" value="Console" />
+
+          <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+
+          <property name="java.specification.vendor" value="Oracle Corporation" />
+
+          <property name="java.vendor.url" value="http://java.oracle.com/" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_102\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\Autodesk\Backburner\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Common Files\Adobe\AGL;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Java\jdk1.8.0_102\bin;C:\adb;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Program Files\PuTTY\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Arvis\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\Arvis\AppData\Local\Programs\Python\Python36-32\;C:\Users\Arvis\AppData\Local\Microsoft\WindowsApps;C:\ANT\apache-ant-1.10.5\bin;;." />
+
+          <property name="env.NUMBER_OF_PROCESSORS" value="4" />
+
+          <property name="java.vm.vendor" value="Oracle Corporation" />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.10.5 compiled on July 10 2018" />
+
+          <property name="java.class.path" value="C:\Users\Arvis\eclipse-workspace\HelloWorldAP\bin;D:\Downloads\ecipse\eclipse-java-oxygen-R-win32-x86_64\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar;D:\Downloads\ecipse\eclipse-java-oxygen-R-win32-x86_64\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:\ANT\apache-ant-1.10.5\lib\ant-launcher.jar;C:\ANT\apache-ant-1.10.5\lib\ant.jar;C:\ANT\apache-ant-1.10.5\lib\ant-junit.jar;C:\ANT\apache-ant-1.10.5\lib\ant-junit4.jar" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner HelloWorldPackage.MainTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\Arvis\eclipse-workspace\HelloWorldAP\junit\TEST-HelloWorldPackage.MainTest.xml crashfile=C:\Users\Arvis\eclipse-workspace\HelloWorldAP\junitvmwatcher2841052612362753034.properties propsfile=C:\Users\Arvis\eclipse-workspace\HelloWorldAP\junit833345988127178203.properties" />
+
+          <property name="env.ANT_OPTS" value="-Xms256M -Xmx512M" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="ant.file.type" value="file" />
+
+          <property name="env.windir" value="C:\WINDOWS" />
+
+          <property name="env.LOGONSERVER" value="\\DESKTOP-HEPIOAM" />
+
+          <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+
+          <property name="java.vm.specification.version" value="1.8" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="debuglevel" value="source,lines,vars" />
+
+          <property name="env.OneDrive" value="C:\Users\Arvis\OneDrive" />
+
+          <property name="env.ProgramFiles" value="C:\Program Files" />
+
+          <property name="env.ANT_HOME" value="C:\ANT\apache-ant-1.10.5" />
+
+          <property name="java.io.tmpdir" value="C:\Users\Arvis\AppData\Local\Temp\" />
+
+          <property name="env.PROCESSOR_REVISION" value="3c03" />
+
+          <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+
+          <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+
+          <property name="env.SystemRoot" value="C:\WINDOWS" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="os.arch" value="amd64" />
+
+          <property name="env.ANT_CMD_LINE_ARGS" value=" MainTest" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="C:\Users\Arvis\eclipse-workspace\HelloWorldAP" />
+
+          <property name="env.LOCALAPPDATA" value="C:\Users\Arvis\AppData\Local" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+
+          <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+
+          <property name="env.Path" value="C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files (x86)\Autodesk\Backburner\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Common Files\Adobe\AGL;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Java\jdk1.8.0_102\bin;C:\adb;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Program Files\PuTTY\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Arvis\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\Arvis\AppData\Local\Programs\Python\Python36-32\;C:\Users\Arvis\AppData\Local\Microsoft\WindowsApps;C:\ANT\apache-ant-1.10.5\bin;" />
+
+          <property name="basedir" value="C:\Users\Arvis\eclipse-workspace\HelloWorldAP" />
+
+          <property name="ant.java.version" value="1.8" />
+
+          <property name="ant.core.lib" value="C:\ANT\apache-ant-1.10.5\lib\ant.jar" />
+
+          <property name="env.USERNAME" value="Arvis" />
+
+          <property name="source" value="1.8" />
+
+          <property name="env.SystemDrive" value="C:" />
+
+          <property name="file.encoding" value="Cp1252" />
+
+          <property name="sun.stderr.encoding" value="cp437" />
+
+          <property name="env.USERDOMAIN" value="DESKTOP-HEPIOAM" />
+
+          <property name="java.specification.version" value="1.8" />
+
+          <property name="env.=C:" value="C:\Users\Arvis\eclipse-workspace\HelloWorldAP" />
+
+          <property name="ant.project.invoked-targets" value="MainTest" />
+
+          <property name="env.VBOX_MSI_INSTALL_PATH" value="D:\Program Files\Oracle\VirtualBox\" />
+
+          <property name="env.PROCESSOR_LEVEL" value="6" />
+
+      </properties>
+
+      <testcase classname="HelloWorldPackage.MainTest" name="test" time="0.001" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+</testsuites>
